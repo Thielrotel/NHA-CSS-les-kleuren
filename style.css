@@ -1,0 +1,103 @@
+.body {
+   background-color:bisque;
+}
+.text {
+   margin-left: 400px;
+   margin-top: 50px;;
+   font-size: 50px;
+   color: rgb(9, 135, 43);
+}
+.header {
+   background-color: rgb(242, 197, 128);
+   height: 200px;
+   border: solid 1px gray;
+}
+.div {
+   background-color: rgb(39, 125, 41);
+   height: 500px;
+   margin-top: 2px;
+   border: solid 1px gray;
+}
+.footer {
+   background-color: rgb(211, 172, 113);
+   height: 200px;
+   margin-top: 2px;
+   border: solid 1px gray;
+}
+.table {
+   border: solid 2px red;
+   margin-top: 40px;
+   margin-left: 400px;
+   width: 800px;
+   height: 400px;
+}
+
+#row1 {
+   border: solid red 1px;
+   background-color: rgb(9, 255, 0);
+}
+#row2 {
+   border: solid red 1px;
+   background-color: rgb(85, 0, 255);
+   width: 15px;
+}
+#row3 {
+   border: solid red 1px;
+   background-color: rgb(255, 123, 0);
+}
+#row4 {
+   border: solid red 1px;
+   background-color: rgb(220, 245, 245);
+   width: 15px;
+}
+#row5 {
+   border: solid red 1px;
+   background-color: rgb(195, 42, 116);
+}
+#row6 {
+   border: solid red 1px;
+   background-color: rgb(55, 98, 98);
+}
+#row7 {
+   border: solid red 1px;
+   background-color: aqua;
+}
+#row8 {
+   border: solid red 1px;
+   background-color: rgb(16, 152, 25);
+}
+#row9 {
+   border: solid red 1px;
+   background-color: rgb(190, 234, 107);
+}
+#row10 {
+   border: solid red 1px;
+   background-color: rgb(204, 22, 180);
+}
+#row11 {
+   border: solid red 1px;
+   background-color: rgb(129, 34, 10);
+}
+#row12 {
+   border: solid red 1px;
+   background-color: rgb(208, 236, 94);
+}
+#row13 {
+   border: solid red 1px;
+   background-color: rgb(179, 19, 228);
+}
+#row14 {
+   border: solid red 1px;
+   background-color: rgb(75, 234, 18);
+}
+#row15 {
+   border: solid red 1px;
+   background-color: rgb(224, 153, 162);
+}
+#row16 {
+   border: solid red 1px;
+   background-color: rgb(171, 186, 145);
+}
+
+
+
